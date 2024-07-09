@@ -49,7 +49,7 @@ Troubleshooting
 
 If the public IP address in your work environment is dynamic (most home connections) there’s a good chance that it has changed and the ingress firewall in GKI is no longer relevant. Check your current public IP address, then navigate to [https://console.cloud.google.com](https://console.cloud.google.com/ "https://console.cloud.google.com"), Kubernetes Engine, find your cluster, and change `Control plane authorized networks`
 
-![snyk-k8s-monitor](../images/snyk-k8s-monitor.png)
+<img src=../images/snyk-k8s-monitor.png>
 
 If you are trying to get the secrets working with the container registry typically you’ll want to delete the secret, re-create the secret, then delete the pod.
 
