@@ -4,7 +4,7 @@ For particularly technical prospects they may want to see what it looks like to 
     
 -   The Snyk Plugin for VS Code.
     
--   The Node.js version of Snyk Goof, [![](https://github.com/fluidicon.png)GitHub - snyk-labs/nodejs-goof: Super vulnerable todo list application](https://github.com/snyk-labs/nodejs-goof) .
+-   The Node.js version of Snyk Goof, https://github.com/snyk-labs/nodejs-goof.
     
 
 1.  With your project open in the IDE, navigate to the Snyk plugin on the bottom left, and to the Code Security section. Notice there are 11 issues in index.js.
@@ -13,7 +13,7 @@ For particularly technical prospects they may want to see what it looks like to 
     
 3.  On the right you should see the Issue car for Snyk Code Vulnerability open. Notice that under the name you are provided with the line number the vulnerability is present. Also notice the 3  example fixes in this pane.
     
-<img src=/images/fix-goof-node1.png>
+<img src="/images/fix-goof-node1.png">
     
 4.  On line 116 also notice the issue is underlined in red. Mouse over the issue to view the full description of the vulnerability.
     
@@ -25,8 +25,4 @@ For particularly technical prospects they may want to see what it looks like to 
     
 8.  Notice the vulnerability for Unsanitized HTTP input is now gone, and the count has gone from 11 to 5 because this resolved several other issues.
     
-<img src=/images/fix-goof-node2.png>
-
-    
-
-Be the first to add a reaction
+<img src="/images/fix-goof-node2.png">
