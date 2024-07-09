@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Azure Devops Pipeline - Snyk Goof Java"
+date:   2023-11-22 21:27:07 -0400
+categories: infrastructure azuredevops cicd pipeline
+---
+
 This pipeline will build and scan Snyk Goof Java.
 
 You can modify any of these steps if you choose to use another repository.

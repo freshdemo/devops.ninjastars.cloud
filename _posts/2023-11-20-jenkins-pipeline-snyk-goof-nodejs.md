@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Jenkins Pipeline - Snyk Goof Node.js"
+date:   2023-11-20 21:27:07 -0400
+categories: infrastructure jenkins cicd pipeline
+---
+
 This pipeline will build and scan Snyk Goof Node.js.
 
 ## Step 1 - Deploy Jenkins

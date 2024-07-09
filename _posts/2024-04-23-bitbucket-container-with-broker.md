@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Container - Bitbucket"
+date:   2024-04-23 21:27:07 -0400
+categories: infrastructure container bitbucket
+---
+
 This README is directly from [![](Bitbucket%20Container%20with%20Broker%20-%20Stephen%20Perciballi%20-%20Confluence/fluidicon.png)GitHub - stephen-snyk/snyk-box-bitbucket](https://github.com/stephen-snyk/snyk-box-bitbucket.git) .
 
 The purpose of this repository is to quickly instantiate an environment used to demonstrate Snyk's integrations with on-premise solutions. Specifically this currently builds a Bitbucket container. Many of these solutions do not run well (or at all) on ARM. There's no reason for everyone to figure this out for the first time, and it means you can also destroy the system when finished using it to save costs.

@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Kubernetes - Snyk Goof Java"
+date:   2023-12-08 21:27:07 -0400
+categories: infrastructure kubernetes goof
+---
+
 Running an application in a Kubernetes environment allows you to demonstrate the Snyk Kubernetes integrations.
 
 ## Step 1 - Build a Kubernetes Cluster

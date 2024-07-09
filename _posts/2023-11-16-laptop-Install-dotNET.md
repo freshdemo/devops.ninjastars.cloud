@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Laptop - Install .NET"
+date:   2023-11-16 21:27:07 -0400
+categories: infrastructure dotnet
+---
+
 Getting your developer environment setup is critical for demos. .NET is popular in large and small enterprises, and there are lots of legacy applications.
 
 ## Step 1 - Install the .Net SDK

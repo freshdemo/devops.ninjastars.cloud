@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Fix First Party Code - Goof Node.js"
+date:   2023-10-23 21:27:07 -0400
+categories: fix code node.js goof
+---
 For particularly technical prospects they may want to see what it looks like to fix a Snyk Code issue. This use case leverages:
 
 -   Visual Studio Code

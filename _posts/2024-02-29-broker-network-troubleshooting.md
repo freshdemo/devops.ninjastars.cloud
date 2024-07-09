@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Broker - Network Troubleshooting"
+date:   2024-02-29 21:27:07 -0400
+categories: infrastructure broker troubleshooting
+---
+
 There are a couple of other pages on troubleshooting the Broker container [![](Broker%20Network%20Troubleshooting%20-%20Stephen%20Perciballi%20-%20Confluence/spaces%252F-MdwVZ6HOZriajCf5nXH%252Favatar-1631192016346.png)Troubleshooting Broker | Snyk User Docs](https://docs.snyk.io/enterprise-configuration/snyk-broker/troubleshooting-broker) and how to install additional tools in the Broker container, [![](Broker%20Network%20Troubleshooting%20-%20Stephen%20Perciballi%20-%20Confluence/01HZKPCSJZC0RZFW3BZGQ6KF6S.undefined)Broker Troubleshooting](https://support.snyk.io/hc/en-us/articles/4404288846353-Broker-Troubleshooting) . This guide is specific to identifying what is in the Brokers path preventing it from connecting to broker.snyk.io.
 
 When a customer stores their code in an on-premise SCM they are typically going to have several network security solutions in place that may prevent the Broker connection to b[roker.snyk.io.](http://broker.snyk.io/ "http://broker.snyk.io") The types of network gateways include:

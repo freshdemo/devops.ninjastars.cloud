@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Container - Snyk Goof Node.js"
+date:   2023-12-05 21:27:07 -0400
+categories: infrastructure container goof
+---
+
 This app can be built into containers that run on your laptop and GKE.
 
 By building the container image you are able to demonstrate Snyk Container. The only reason to move beyond this step is if you need to demonstrate the same data from the Kubernetes integration.

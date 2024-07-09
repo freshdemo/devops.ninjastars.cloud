@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Build Containers & Push to Registry"
+date:   2023-11-16 21:27:07 -0400
+categories: infrastructure containers registry
+---
 Often the code you’re using the demo will have a pre-build container image hosted on [https://hub.docker.com](https://hub.docker.com/ "https://hub.docker.com"), for example [https://hub.docker.com/r/bkimminich/juice-shop](https://hub.docker.com/r/bkimminich/juice-shop). This allows you to pull a theoretically working container to your laptop, a VM, kubernetes, or anywhere else you want to run it.
 
 You may want to build your own container to include vulnerabilities, remove vulnerabilities, change pages, add/remove users, add/remove tags that can be used with Insights, and may more.

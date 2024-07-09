@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Laptop - Install Node.js & NVM"
+date:   2023-11-15 21:27:07 -0400
+categories: infrastructure node.js nvm
+---
 Getting your developer environment setup is critical for demos. Node Version Manager helps you quickly install various versions of Node.js, and select which one to use during runtime. This is particularly useful when you have different Node.js projects on your laptop.
 
 ## Step 1 - Install nvm

@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "GKE Kubernetes Cluster"
+date:   2023-10-20 21:27:07 -0400
+categories: kubernetes infrastructure
+---
 It’s a good idea to at least try to setup your own Kubernetes cluster, deploy an application to it, and integrate with Snyk. It’s not a good idea to leave apps running, or even the cluster. This guide is designed to get your cluster running in Google Kubernetes Engine quickly enough that you feel comfortable deleting it when done using it.
 
 **Wherever possible include your Okta username in the resources you create in GKE so that our IT security team can reach you quickly if required.**
