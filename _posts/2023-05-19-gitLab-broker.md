@@ -2,7 +2,7 @@
 layout: post
 title:  "Gitlab Broker"
 date:   2023-05-19 21:27:07 -0400
-categories: gitlab infrastructure scm broker
+categories: [gitlab, infrastructure, scm, broker]
 ---
 The best place to start is with the official docs as things may change, [![](GitLab%20Broker%20-%20Stephen%20Perciballi%20-%20Confluence/spaces%252F-MdwVZ6HOZriajCf5nXH%252Favatar-1631192016346.png)GitLab - install and configure using Docker | Snyk User Docs](https://docs.snyk.io/enterprise-setup/snyk-broker/install-and-configure-snyk-broker/gitlab-install-and-configure-broker/setup-broker-with-gitlab) .
 
