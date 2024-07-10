@@ -44,5 +44,3 @@ See the source repository README file for other fun things you can do with this 
 There does not appear to be a built container on Docker Hub for the Java version of this project.
 
 See this guide on details to build your own container and push it to your own Container Registry, [Build Containers & Push to Registry](https://snyksec.atlassian.net/wiki/spaces/~629db3cb76c0360069f263e7/blog/2023/11/16/1752432748). There are technically two apps in this project so make sure to `cd todolist-goof` prior to building the container.
-
-Be the first to add a reaction

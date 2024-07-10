@@ -72,4 +72,3 @@ The Prerequisites and Instructions are critical to making this work.
 
 If you need to make changes it is best to practice the changes in the running environment. Once you know how to implement them correctly destroy the currently running environment first. Then make changes (most likely in server.tpl) and go back to `terraform plan`, `terraform apply` to build the new version.
 
-Be the first to add a reaction

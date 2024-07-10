@@ -92,5 +92,3 @@ While building/tuning a pipeline it can be easier to edit from the GitHub UI, an
     
 4.  From this view you will see each of the steps. You can click on each of them to see exactly what happened, and this is where you’ll find the most valuable error messages.
     
-
-Be the first to add a reaction

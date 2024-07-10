@@ -63,5 +63,3 @@ Note the Snyk Code HTML report also will be displayed under Pipeline, Status.
 From Pipeline, Status you can mouse over each numbered build stage and get a popup where you can navigate directly to the logs for each stage.
 
 From the same area you can select the down pointing arrow next to the pipeline run number and select Console Output to show all of the logs.
-
-Be the first to add a reaction

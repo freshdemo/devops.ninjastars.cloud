@@ -54,5 +54,3 @@ You can test the installation with;
 `mnv -v`
 
 If you get an error try a new terminal or use `source ~/.zshrc`. Also check the PATH variables set to ensure you’re looking in the right place.
-
-Be the first to add a reaction

@@ -65,5 +65,3 @@ If you are trying to get the secrets working with the container registry typical
 `kubectl delete pod snyk-monitor-<pod ID>`
 
 From here the pod will re-create in a minute.
-
-Be the first to add a reaction

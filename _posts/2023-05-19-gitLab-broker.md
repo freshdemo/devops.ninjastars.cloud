@@ -66,5 +66,3 @@ You can also look at the Broker container logs. To find the _Container ID_ run;
 Then check the logs with
 
 `docker logs -f <your container ID>`
-
-Be the first to add a reaction

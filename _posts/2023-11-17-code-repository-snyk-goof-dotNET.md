@@ -48,5 +48,3 @@ Then browse to `http://localhost:5000`
 There does not appear to be a built container on Docker Hub for this project.
 
 See this guide on details to build your own container and push it to your own Container Registry, [Build Containers & Push to Registry](https://snyksec.atlassian.net/wiki/spaces/~629db3cb76c0360069f263e7/blog/2023/11/16/1752432748).
-
-Be the first to add a reaction

@@ -122,5 +122,3 @@ Once you are done with this app you can delete the configuration;
     
     1.  `kubectl delete pod -n java-goof-azure-gar-gke java-goof-azure-gar-gke-648cc55d8d-s6qcp`
         
-
-Be the first to add a reaction

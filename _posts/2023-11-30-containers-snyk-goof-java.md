@@ -62,5 +62,3 @@ If you plan to run the container outside of your laptop the hardware architectur
 Jenkins and Azure DevOps don’t provide free accounts with cloud runners. This means all of the steps in the pipelines are run locally on the system you are using their runner software (likely your laptop), so you will use the docker build and push commands in the steps above while using these tools.
 
 GitHub, Bitbucket, and Gitlab allow you to run build steps in their cloud and the steps vary. See the posts with the cicd tag to find specific use cases [https://snyksec.atlassian.net/wiki/label/~629db3cb76c0360069f263e7/cicd](https://snyksec.atlassian.net/wiki/label/~629db3cb76c0360069f263e7/cicd "https://snyksec.atlassian.net/wiki/label/~629db3cb76c0360069f263e7/cicd").
-
-Be the first to add a reaction

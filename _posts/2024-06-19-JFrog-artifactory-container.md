@@ -104,4 +104,3 @@ If you get errors with the `mvn install` or packages are not showing up in Artif
 
 Next, be sure to look for other posts with the tag [artifactory](https://snyksec.atlassian.net/wiki/label/~629db3cb76c0360069f263e7/artifactory "https://snyksec.atlassian.net/wiki/label/~629db3cb76c0360069f263e7/artifactory") to find each of the use cases.
 
-Be the first to add a reaction

@@ -48,5 +48,3 @@ Then browse to `http://localhost:3001`
 The developer has a container that you can pull from [https://hub.docker.com/r/snyklabs/goof](https://hub.docker.com/r/snyklabs/goof).
 
 See this guide on details to build your own container and push it to your own Container Registry, [https://snyksec.atlassian.net/wiki/spaces/~629db3cb76c0360069f263e7/blog/2023/11/16/1752432748](https://snyksec.atlassian.net/wiki/spaces/~629db3cb76c0360069f263e7/blog/2023/11/16/1752432748).
-
-Be the first to add a reaction

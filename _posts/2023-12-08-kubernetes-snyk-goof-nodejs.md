@@ -224,5 +224,3 @@ These are vulnerable applications and should not be left running. You can either
         
 5.  Make sure the environment variable DOCKER = 1 is set correctly in the MongoDB and Goof deployment, otherwise they will not be able to communicate and the app will not start.
     
-
-Be the first to add a reaction

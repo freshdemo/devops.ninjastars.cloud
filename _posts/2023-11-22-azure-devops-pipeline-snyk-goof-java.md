@@ -78,5 +78,3 @@ All of the CI tools today use a build agent/runner. The build agent/runner is a 
 Navigate to Pipelines, and Runs. Choose the run, then at the bottom click job. From here you can see each step, and selecting a step will give you details about the run. You’ll be able to see things like Snyk scan data and errors in each step.
 
 For the most part you’ll be looking for errors about the wrong build tool (or lack thereof), lack of authorization (say for the Snyk scans), and scripting errors in the pipeline (like missing brackets).
-
-Be the first to add a reaction

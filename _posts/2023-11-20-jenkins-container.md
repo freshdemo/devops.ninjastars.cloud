@@ -51,5 +51,3 @@ With the admin credentials handy,
     
 4.  Follow any prompts to upgrade software and reboot Jenkins.
     
-
-Be the first to add a reaction

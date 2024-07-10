@@ -37,5 +37,3 @@ Tell your system where to access .NET by adding the following lines to your ~/.z
 You can test the installation with;
 
 `dotnet --version`
-
-Be the first to add a reaction

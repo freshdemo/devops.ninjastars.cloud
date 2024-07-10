@@ -47,5 +47,3 @@ The developer has a container that you can pull from [https://hub.docker.com/r/b
 See this guide on details to build your own container and push it to your own Container Registry, [Build Containers & Push to Registry](https://snyksec.atlassian.net/wiki/spaces/~629db3cb76c0360069f263e7/blog/2023/11/16/1752432748) .
 
 To reiterate the statement above, building a container for this app seems to work fine locally on an M1 Mac. Even when building with --platform=linux/x86,linuxamd64 the container does not run in GKE. As a result I’ve resorted to hosting the code on GitHub and using GitHub Actions to build the container and push it to the registry.
-
-Be the first to add a reaction

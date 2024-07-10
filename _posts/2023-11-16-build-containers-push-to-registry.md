@@ -53,5 +53,3 @@ To delete the image run;
 ### Optional 2 - Run a Container from the Image
 
 This step is going to vary between containers. In this documentation you will find a step in the associated code repository post so search for the tags `ninjastars` and `coderepo`.
-
-Be the first to add a reaction

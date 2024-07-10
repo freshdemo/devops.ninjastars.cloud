@@ -33,5 +33,3 @@ To see what’s installed on your system use;
 From the list in the previous command select the version to use;
 
 `nvm use v18.17.1`
-
-Be the first to add a reaction

@@ -128,5 +128,3 @@ Once you are done with this app you can delete the configuration;
     
     1.  `kubectl delete pod -n juice-shop-github-dockerhub-gke juice-shop-github-dockerhub-gke-648cc55d8d-s6qcp`
         
-
-Be the first to add a reaction

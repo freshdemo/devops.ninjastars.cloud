@@ -73,5 +73,3 @@ Setup network address translation so that all traffic will egress a single publi
 `--router sperciballi-router \`  
 `--nat-all-subnet-ip-ranges \`  
 `--auto-allocate-nat-external-ips`
-
-Be the first to add a reaction
