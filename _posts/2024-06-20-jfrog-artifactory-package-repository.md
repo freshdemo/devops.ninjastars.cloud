@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "JFrog Artifactory - Package Repository"
+date:   2024-06-20 21:27:07 -0400
+tags: infrastructure container jfrog artifactory
+---
+
 Many enterprises leverage JFrog Artifactory to;
 
 -   Proxy all package downloads. This allows administrators to ensure packages are only being downloaded from specified source like Maven Central, and not arbitrary websites. Think of this use case like the Apple app store and how you can only download apps from there, unless the device is jailbroken.
