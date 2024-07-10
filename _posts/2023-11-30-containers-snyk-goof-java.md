@@ -2,7 +2,7 @@
 layout: post
 title:  "Container - Snyk Goof Java"
 date:   2023-11-30 21:27:07 -0400
-categories: infrastructure container goof
+tags: infrastructure container goof
 ---
 
 This app can be built into containers that run on your laptop and GKE.

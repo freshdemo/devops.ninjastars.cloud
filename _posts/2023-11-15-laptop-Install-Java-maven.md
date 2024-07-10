@@ -2,7 +2,7 @@
 layout: post
 title:  "Laptop - Install Java Maven"
 date:   2023-11-15 21:27:07 -0400
-categories: infrastructure java maven
+tags: infrastructure java maven
 ---
 Getting your developer environment setup is critical for demos. Maven is one of the more popular Java package managers, and requires JDK to run.
 

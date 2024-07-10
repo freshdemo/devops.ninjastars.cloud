@@ -2,7 +2,7 @@
 layout: post
 title:  "Container - Jenkins"
 date:   2023-11-20 21:27:07 -0400
-categories: container infrastructure jenkins cicd
+tags: container infrastructure jenkins cicd
 ---
 
 Jenkins is one of the most widely deployed CI tools. Here we’ll walk through getting the container setup.

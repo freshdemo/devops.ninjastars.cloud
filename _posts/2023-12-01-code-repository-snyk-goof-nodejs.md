@@ -2,7 +2,7 @@
 layout: post
 title:  "Code Repository - Snyk Goof Node.js"
 date:   2023-12-01 21:27:07 -0400
-categories: code repository goof node.js
+tags: code repository goof node.js
 ---
 
 Goof has oodles of vulnerabilities, builds quickly, and the app works.

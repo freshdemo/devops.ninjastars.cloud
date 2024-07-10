@@ -2,7 +2,7 @@
 layout: post
 title:  "Container - JFrog Artifactory"
 date:   2024-06-19 21:27:07 -0400
-categories: infrastructure container jfrog artifactory
+tags: infrastructure container jfrog artifactory
 ---
 
 There are 3 benefits to integrating JFrog Artifactory:

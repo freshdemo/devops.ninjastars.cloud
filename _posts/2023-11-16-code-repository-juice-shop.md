@@ -2,7 +2,7 @@
 layout: post
 title:  "Code Repository - Juice Shop"
 date:   2023-11-16 21:27:07 -0400
-categories: code repository juice-shop node.js
+tags: code repository juice-shop node.js
 ---
 Juice Shop has the advantage of being an OWASP project, making it more agnostic than using one of Snyk’s vulnerable projects. It’s JavaScript and well maintained making it pretty modern. You can get the source directly from here, [![](Code%20Repository%20-%20Juice%20Shop%20-%20Stephen%20Perciballi%20-%20Confluence/fluidicon.png)OWASP Juice Shop](https://github.com/juice-shop) , but below you will find some specifics on getting it working in your environment.
 

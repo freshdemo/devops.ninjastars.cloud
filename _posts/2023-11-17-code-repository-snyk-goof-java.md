@@ -2,7 +2,7 @@
 layout: post
 title:  "Code Repository - Snyk Goof Java"
 date:   2023-11-16 21:27:07 -0400
-categories: code repository java goof
+tags: code repository java goof
 ---
 
 Goof has oodles of vulnerabilities, builds quickly, and the app works.

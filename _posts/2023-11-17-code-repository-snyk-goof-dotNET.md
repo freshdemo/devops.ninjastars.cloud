@@ -2,7 +2,7 @@
 layout: post
 title:  "Code Repository - Snyk Goof .NET"
 date:   2023-11-16 21:27:07 -0400
-categories: code repository dotnet goof
+tags: code repository dotnet goof
 ---
 
 This isn’t actually the same Goof we know and love, but it is a .NET app that should do the trick.

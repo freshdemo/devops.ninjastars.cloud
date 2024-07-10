@@ -2,7 +2,7 @@
 layout: post
 title:  "Kubernetes - Goof Node.js"
 date:   2023-12-08 21:27:07 -0400
-categories: infrastructure kubernetes goof node.js
+tags: infrastructure kubernetes goof node.js
 ---
 
 Running an application in a Kubernetes environment allows you to demonstrate the Snyk Kubernetes integrations.

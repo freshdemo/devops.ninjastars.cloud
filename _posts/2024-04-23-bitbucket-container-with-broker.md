@@ -2,7 +2,7 @@
 layout: post
 title:  "Container - Bitbucket"
 date:   2024-04-23 21:27:07 -0400
-categories: infrastructure container bitbucket
+tags: infrastructure container bitbucket
 ---
 
 This README is directly from [![](Bitbucket%20Container%20with%20Broker%20-%20Stephen%20Perciballi%20-%20Confluence/fluidicon.png)GitHub - stephen-snyk/snyk-box-bitbucket](https://github.com/stephen-snyk/snyk-box-bitbucket.git) .

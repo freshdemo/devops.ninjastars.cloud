@@ -2,7 +2,7 @@
 layout: post
 title:  "GitHub Actions Pipeline - Juice Shop Node.js"
 date:   2023-11-27 21:27:07 -0400
-categories: infrastructure github-actions cicd pipeline
+tags: infrastructure github-actions cicd pipeline
 ---
 This pipeline will build and scan Juice Shop.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Fix First Party Code - Juice Shop"
 date:   2023-11-15 21:27:07 -0400
-categories: fix code node.js juice-shop
+tags: fix code node.js juice-shop
 ---
 1.  With your project open in the IDE, navigate to the Snyk plugin on the bottom left, and to the Code Security section. Notice there are 14 issues in vulnCodeSnippets.ts. There should also be ~263 total Snyk Code vulnerabilities.
     

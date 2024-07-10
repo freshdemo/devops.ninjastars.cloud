@@ -2,7 +2,7 @@
 layout: post
 title:  "Snyk Monitor Kubernetes"
 date:   2023-10-23 21:27:07 -0400
-categories: snyk infrastructure kubernetes
+tags: snyk infrastructure kubernetes
 ---
 This guide walks through deploying Snyk Kubernetes Monitor, providing you’ve already got an on-premise or GKE based ([GKE Kubernetes Cluster](https://snyksec.atlassian.net/wiki/spaces/~629db3cb76c0360069f263e7/blog/2023/10/20/1719238881) ) Kubernetes cluster deployed. Snyk Kubernetes Monitor will provide vulnerability information about the Kubernetes deployment, and the containers running in the cluster, [https://docs.snyk.io/products/snyk-container/kubernetes-workload-and-image-scanning/installation-page/install-the-snyk-controller-with-helm](https://docs.snyk.io/products/snyk-container/kubernetes-workload-and-image-scanning/installation-page/install-the-snyk-controller-with-helm "https://docs.snyk.io/products/snyk-container/kubernetes-workload-and-image-scanning/installation-page/install-the-snyk-controller-with-helm").
 
