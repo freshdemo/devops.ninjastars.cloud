@@ -2,7 +2,7 @@
 layout: post
 title:  "Gitlab container"
 date:   2024-05-19 21:27:07 -0400
-categories: gitlab infrastructure scm
+tags: gitlab infrastructure scm
 ---
 Often times customers will want to see what a workflow will look like in their environment. Sometimes it’s also a benefit being able to run the system locally so that you don’t run into the limits of GitLab’s SaaS free plan.
 
