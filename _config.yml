@@ -22,7 +22,9 @@ title: devops ninja stars
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
     Posts that pull information together, often from multiple sources, to make enterprise software work.
-    This can be helpful when running a proof of concept.
+    This can be helpful when running a proof of concept. devops, devsecops, snyk, sast, sca, appsec, container, kubernetes, k8s, terraform, pulumi, cicd, jenkins, github actions, gitlab ci, bitbucket pipelines"
+keywords: "devops, devsecops, snyk, sast, sca, appsec, container, kubernetes, k8s, terraform, pulumi, cicd, jenkins, github actions, gitlab ci, bitbucket pipelines"
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
